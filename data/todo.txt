@@ -1,2 +1,0 @@
-- [x] Get the power example working with registers only
-- [ ] Do the factorial example with ccc
